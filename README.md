@@ -2,9 +2,9 @@
 
 *A game of 'Rock, Paper, Scissors' written in HTML, CSS and Vanilla JS*
 
-View it [here]()
+View it [here](https://jsclampet.github.io/sdmm-fourth-assignment/)
 
-![preview](src/Screenshot 2023-10-06 at 11.27.32 PM.png)
+![preview](/src/Screenshot%202023-10-06%20at%2011.27.32 PM.png)
 
 ## Summary 
 
